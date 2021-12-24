@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Faysal04
 - 👀 I’m interested in Hardware Design & Verification 
-- 🌱 I’m currently learning UVM
+- 🌱 I’m currently learning PYUVM & COCOTB
 - 📫 How to reach me faisalsaeedc14@gmail.com
 
 <!---
